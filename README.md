@@ -8,6 +8,6 @@ Welcome to my GitHub profile! Here’s a bit more about me:
 
 🤝 Open to Collaboration: I'm always eager to collaborate on data-related projects, whether it's engineering, analytics, or data science.
 
-📫 Get in Touch: You can reach me through my website at Nephosis.com.
+📫 Get in Touch: You can reach me through my website at https://nephosis.com/
 
 🎵 Fun Fact: When I'm not working with data, I also have a musical media platform where I share some of my creative content.
